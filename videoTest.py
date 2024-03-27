@@ -10,7 +10,8 @@ model = YOLO("yolov8l.pt")
  
 classNames = ['Helmet']
 #mask = cv2.imread("mask.png")
-#mask = cv2.resize(mask, (1280, 720))
+#mask = cv2.resize(mask, (1280, 720))test
+
 while True:
  
     success, img = cap.read()
