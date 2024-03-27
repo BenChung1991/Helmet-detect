@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Helmet/data/train/images
+val: /content/drive/MyDrive/Helmet/data/valid/images
+
+nc: 1
+names: ['Helmet']
